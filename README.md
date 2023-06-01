@@ -1,6 +1,6 @@
 # MotoTrak Example Protocols
 
-Stage definition files (*.MotorStage) and implementation files (*.py) for example protocols for Vulintus's MotoTrak systems.
+Stage definition files (**.MotorStage) and implementation files (**.py) for example protocols for Vulintus's MotoTrak systems.
 
 These files correspond to the example protocols available for download on Vulintus' MotoTrak support page:
 
