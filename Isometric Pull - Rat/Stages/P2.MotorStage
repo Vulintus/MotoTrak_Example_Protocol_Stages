@@ -1,7 +1,7 @@
 Stage File Version: 1
 Stage Name: P2
 Stage Description: Isometric Pull Training Step 2
-Stage Implementation: PythonPullStageImplementation.py
+Stage Implementation: PythonPullStageImplementationRat.py
 Stage Output Trigger: Off
 Stage Device: Pull
 Stage Sampling Rate: 10
